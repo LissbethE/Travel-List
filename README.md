@@ -12,18 +12,22 @@
 
 <br/>
 
-<p align=center>Course project: The Ultimate React Course 2023: React, Redux & More, by Jonas Schmedtmann.</p>
+#### 📚 Course project
+- The Ultimate React Course 2023: React, Redux & More, by Jonas Schmedtmann.
 
 #### 💡The implemented changes
 
-- Make the game responsive on mobile
+- Mobile-friendly.
 - By making a slight modification to the design.
+
+</br>
 
 <p align=center>🌐The online site: <a href="" target="_blank">✈️Travel List</a></p>
 
+</br>
+
 ##
 
-</br>
 </br>
 
 # Getting Started with Create React App
